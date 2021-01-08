@@ -1,0 +1,3 @@
+﻿  keyhooking.cpp
+c:\users\user\source\repos\keyhooking\keyhooking.cpp(368): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+  keyhooking.vcxproj -> C:\Users\User\source\repos\keyhooking\Debug\keyhooking.exe
